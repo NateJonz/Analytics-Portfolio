@@ -31,16 +31,6 @@ The analysis leverages sales, customer, inventory, and shipment data to uncover 
 
 ---
 
-## Visual & Data Model Screenshots
-
-### Data Model
-![Data Model](Power%20BI%20Projects/North%20Peak%20Gross%20Margin%20Analysis/screenshots/data_model.png)
-*Shows relationships between multiple tables and how the data is structured for analysis.*
-
-### Dashboard Page
-![Dashboard Page](Power%20BI%20Projects/North%20Peak%20Gross%20Margin%20Analysis/screenshots/visual_pg1.png)
-*Interactive Power BI dashboard visualizing sales performance by region, product tier, and product.*
-
 ## Key Highlights
 - Explored multi-table relationships in Power BI to support accurate analysis  
 - Created interactive dashboards to facilitate stakeholder decision-making  
